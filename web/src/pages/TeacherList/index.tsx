@@ -31,7 +31,7 @@ function TeacherList() {
             <main>
                 <article className='teacher-item'>
                     <header>
-                        <img src='' alt='Kaic Melo Santos' />
+                        <img src='https://avatars0.githubusercontent.com/u/31524540?s=460&u=4ed060b4a70330c84fe3330209bd4da11ca1c08a&v=4' alt='Kaic Melo Santos' />
                         <div>
                             <strong>Kaic Melo Santos</strong>
                             <span>Química</span>
@@ -55,6 +55,7 @@ function TeacherList() {
                     </footer>
                 </article>
             </main>
+            
         </div>
     );
 }
